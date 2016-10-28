@@ -1,1 +1,1 @@
-include ':app', ':snake'
+include ':app', ':snakelib'
